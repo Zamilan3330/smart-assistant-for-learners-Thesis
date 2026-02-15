@@ -1,0 +1,45 @@
+
+main-pre.aux
+main.aux
+main.fdb_latexmk
+main.fls
+main.lof
+main.log
+main.lol
+main.lot
+main.nlo
+main.out
+main.toc
+main.xdv
+# Ignore LaTeX build files
+*.aux
+*.log
+*.toc
+*.out
+*.lof
+*.lot
+*.lol
+*.nlo
+*.fdb_latexmk
+*.fls
+*.xdv
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.ps
+*.thm
+*.tmp
+*.bak
+*.backup
+*.swp
+*.swo
+*.DS_Store
+latexmkrc
+# VS Code
+.vscode/
+# MacOS
+._*
